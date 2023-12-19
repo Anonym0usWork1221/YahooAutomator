@@ -22,6 +22,12 @@ Author Information
 Remember, unauthorized access to accounts or systems is illegal and unethical. 
 Use YahooAutomator responsibly, following cybersecurity and privacy principles.
 
+-----------
+Video Demo
+-----------
+[![Video Demo](https://img.youtube.com/vi/x1DDWoVKnK0/0.jpg)](https://www.youtube.com/watch?v=x1DDWoVKnK0)
+-----------
+
 
 Introduction
 -----
